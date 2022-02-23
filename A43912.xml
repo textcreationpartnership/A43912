@@ -1,0 +1,891 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The history of Tarquin and Lucretia Licensed Decemb. 26. 1668. Roger L'Estrange.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43912</idno>
+            <idno type="STC">Wing H2141</idno>
+            <idno type="STC">ESTC R217001</idno>
+            <idno type="EEBO-CITATION">99828706</idno>
+            <idno type="PROQUEST">99828706</idno>
+            <idno type="VID">33137</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33137)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1868:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The history of Tarquin and Lucretia Licensed Decemb. 26. 1668. Roger L'Estrange.</title>
+               </titleStmt>
+               <extent>[8], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Leach, for C. Wilkinson, at the Black Boy over against St. Dunstans Church in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tarquinius Superbus, Lucius, --  King of Rome, fl. 534-510 B.C. --  Early works to 1800.</term>
+               <term>Lucretia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33137:1"/>
+            <pb facs="tcp:33137:1"/>
+            <p>THE HISTORY OF Tarquin <hi>and</hi> Lucretia.</p>
+            <p>
+               <hi>Licenſed</hi> Decemb. 26. 1668.</p>
+            <p>
+               <hi>Roger L'Eſtrange.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Leach,</hi> for <hi>C. Wilkinſon,</hi> at the <hi>Black Boy</hi> over againſt St. <hi>Dunſtans Church</hi> in <hi>Fleet-Street,</hi> 1669.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:33137:2"/>
+            <pb facs="tcp:33137:2"/>
+            <head>FOR LUCINDA.</head>
+            <opener>
+               <salute>Dear Madam,</salute>
+            </opener>
+            <p>THis Poem of <hi>Tarquin</hi> and <hi>Lucretia</hi> challenges your Patronage and Protection: for I'le aſsure you, had it not been for your ſtrict Injunctions, it had never ſeen the light. But ſince the ſub<g ref="char:EOLhyphen"/>ject was of ſo virtuous a Lady as <hi>Lucretia,</hi> and ſo inge<g ref="char:EOLhyphen"/>nuous a Perſon laid her commands on me to Publiſh it; I was reſolved to give way whatever were the hazard of it, and let <hi>Lucretia</hi> come to kiſs your hands in that in<g ref="char:EOLhyphen"/>nocent Garb ſhe us'd to wear, and that modeſt Behave that us'd alwayes to accompany her Port aire and acti<g ref="char:EOLhyphen"/>ons. But I must beg pardon for all the faults, for being on another more ſerious ſubject, I could not review it as I would; neither do I but by accident make Verſe my ſtudy, yet for divertiſements from my unhappy troubles which you know attend me, I ſometimes uſe to make it my re<g ref="char:EOLhyphen"/>creation. I deſign'd this Poem as I was walking one Morn among the little Trees of my Wilderneſs, and writ
+<pb facs="tcp:33137:3"/>moſt if it down the ſame day, and ſo as it is, ſend it you. What errors there are, pray tell me, and I will amend it in the next Edition, and that's fair. In the mean time you must needs be my Championeſs to defend me againſt the cenſure and malice of the Age, and then I doubt not but this Poem will find favour among all the Courtly and Generous world, as <hi>Lucretia</hi> her ſelf muſt needs oblige the concern of your ſelf, and compaſſion of all the chaſt and well diſpoſed. A virtuous diſpoſition is commendable in all, but moſt in thoſe whoſe great beauty renders them lyable to many temptations, but yet ſcorn to be allured by the guilded folly and gaudy nonſence of the times, but their affections are wrought upon by brave temper, honour, and worthineſs. How far doth our <hi>Lucretia</hi> differ from the lewdneſs of the world, whoſe aiery Nimphs eſteem wantonneſs, well manag'd, the beſt part of their Portion; when doubtleſs, ſweetneſs and modeſty, added to native Beauty, are infinitely the beſt accompliſhments in a wo<g ref="char:EOLhyphen"/>man, underſtanding how to value a noble friendſhip be<g ref="char:EOLhyphen"/>yond vitious extravagances. Poor <hi>Lucretia</hi> deſerves the concern of all for her Misfortune, and vindicati<g ref="char:EOLhyphen"/>on of all for her Affection and Loyalty: which muſt not be judged as wholly impeach'd, though ſullyed by this Rape; but yet much redeemed by her Trouble, Anguiſh, and Death. For ſuch Accidents may inevitably fall out ſome times, though women ſtand on never ſo strict a Guard; though they are genuinly of never ſo virtuous a temper, yet their tender natures are lyable to be frighted into ſe<g ref="char:EOLhyphen"/>veral inconveniencies they were unwary off. Poor <hi>Lu<g ref="char:EOLhyphen"/>cretia</hi>'s floods of Tears had expiated her Crime, if that could be called a Crime, which could not be help'd, but by killing her ſelf firſt, which though ſhe had better have done before than after, So that by this diſaster, the
+<pb facs="tcp:33137:3"/>Ladies of our times may learn to be fore-witted. A Wife that is constant, and abominates diſloyalty, as did <hi>Lucretia,</hi> deſerves the Love of her Husband, Defence of Nations, and Warrs of Kingdomes for her; but thoſe that ſhall voluntarily unvail their Modeſty, and profane their ſacred Vowes at the Altar, and joyn in Con<g ref="char:EOLhyphen"/>federacy againſt Loyalty. no puniſhment is too bad for them; but ſuch low and mean ſpirits, deſerve the ſcorn of all mankind: Though their vice is clothed with never ſo much Grandeur, yet they appear too baſe and unworthy for the Heroick world to own or regard them: Their whole Lives being infamous, and their Actions black and fooliſh: Their Beauty it ſelf afterwards proves but the Trumpet to make known their diſgrace; ſo much the more I would have all Ladies eſteem their Honor, and put a value on Chastity in a Cottage, before the glorious Addreſſes of Crowns and Empires with Diſhonesty: For the Lines of their Faces are by it ſo altered, that after<g ref="char:EOLhyphen"/>wards all their Garb, Paint, and Impudence, can never ſet them right again in the view of the world: And their Deport makes thouſands of others ſober and harmleſly free women fare the worſe for them. But whither do I run? Dear Madam, I hope you'l pardon this Digreſſion. For the honoured value I have for your Sex, makes me (being on a ſubject tending this way) give a word or two of caution to the wilder ſort. For Love ought either not at all to be pretended, or if it be, to be maintained with the greateſt Piety and Conſtancy in the world. I underſtand no Pleaſure on Earth, but Philoſophy and Love; one for the ſerious part of Life, the other for the merry. For all the Grandeurs we have, tend to this of Love at the laſt. What ſignifies all the Riches, fine Houſes, fine Coaches, Garb, Splendor, and Equipage,
+<pb facs="tcp:33137:4"/>but to endeer and entertain the Perſons they Love. And as Love is that which cauſeth moſt pleaſure and ſatisfacti<g ref="char:EOLhyphen"/>on, ſo women are the proper and natural Centure of it. What dull Sports are all the Exerciſes of Hawks, Hounds, Horſes, and Drinking, to this of adoring your Sex. Society is the Life of Life, and Women the Life of all Society. And lovely women that are virtuous, the very Angels of this world. Wherefore I would have them do nothing that may render them otherwiſe than the Starrs and Luſtre of the Creation, but wearing Souls stampt with the Glory of the Antient Heroes, may like little Deities ſoar above the ordinary Rank of Mortals: When others chaining their Lives to dark and crocked wayes, live clouded and ſcan<g ref="char:EOLhyphen"/>dalouſly, and at laſt, ſneak out of the world pittifully; while the truly Virtuous and Gallant perſons, are happy in themſelves, good to others, merit the Lawrels of the wiſe, and ride triumphant on the Acclamations of the whole world. And after they have by the odours of their virtues perfum'd the Age they live in, Immortal Story remembers them to Posterity by Deeds truly Heroick and Honourable. But no more of this now, leſt I make my Epistle ſwell into a Volumne, though all I have ſaid, Ma<g ref="char:EOLhyphen"/>dam, is but to Come to you at laſt, who ſhew your good In<g ref="char:EOLhyphen"/>clinations, by having ſuch a Concern for this excellent Lady. And as the braveſt temper is to be pleaſant in all Conditions whatever, yet not inſenſible of the nature of any Condition. To be one can reach at Crowns, or dwell in an Hermitage. So you, Madam. underſtand all the Modes and Meanders of women, and remain at laſt ge<g ref="char:EOLhyphen"/>nerous; having the gift alſo to be lively and well pleaſed at all times; and can be compleiſant when you ought to be ſo, and at other times reſerved. You can be merry, when you may do it with Conveniency, or otherwiſe, be
+<pb facs="tcp:33137:4"/>as well contented to be contriving your Houſhold affairs. I know alſo you hate penuriouſneſs as one of the De<g ref="char:EOLhyphen"/>vils on Earth, eſteeming it meer madneſs to live ſor<g ref="char:EOLhyphen"/>didly to dye rich. I dare ſay this is much your humour, and ſo I'le leave you at the preſent in the midſt of all your happineſs and pleaſant deſign.</p>
+            <closer>
+               <signed>Your Friend and Servant PHILANDER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:33137:5"/>
+            <pb n="1" facs="tcp:33137:5"/>
+            <head>THE HISTORY OF Tarquin <hi>and</hi> Lucretia.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">Q</seg>Ueen of all Cities in the World was <hi>Rome,</hi>
+               </l>
+               <l>The Nations far and near did thither come</l>
+               <l>To ſee their Glory, and themſelves to pleaſe</l>
+               <l>There being all things Land could yeild or Seas;</l>
+               <l>Here was the Pomp, the Splendor, Living-high,</l>
+               <l>The Grandees of the world and Bravery.</l>
+            </lg>
+            <lg>
+               <l>Never was ſeen ſo great, ſo rich a Court,</l>
+               <l>Gallants and Beauties here in Troops reſort;</l>
+               <l>Chariots and Guilded Rooms held them by daies,</l>
+               <l>The nights were ſpent in Balls, Treats, Masks, and Plaies.</l>
+               <l>To give delight nothing was wanting here,</l>
+               <l>Their Houſes brave and nobly furniſh'd were.</l>
+            </lg>
+            <pb n="2" facs="tcp:33137:6"/>
+            <lg>
+               <l>Set off with Painting, Marbles, and the Glories</l>
+               <l>Of Pictures, Statues, and the Antient Stories</l>
+               <l>Adorn'd with Walks, with Gardens, Bathing Courts</l>
+               <l>What e're with Pleaſures ſuited, or with Sports:</l>
+               <l>Their Veſtures were moſt rich, no want of Treaſures,</l>
+               <l>They melted and diſſolv'd in ſoſteſt pleafures.</l>
+            </lg>
+            <lg>
+               <l>Great <hi>Romulus</hi> firſt wall'd and built this Place,</l>
+               <l>Stole <hi>Subine</hi> Wives and peopled it apace:</l>
+               <l>So that in ſtead of wild Woods, Fields and Downs,</l>
+               <l>He founds a City, and eſtabliſh'd Crowns;</l>
+               <l>And from that time to this they ſtill have kept</l>
+               <l>The Earth in Awe, and there ſecurely ſlept.</l>
+            </lg>
+            <lg>
+               <l>Brave <hi>Collatine</hi> a Roman Senatour</l>
+               <l>From the proud City liv'd not very far,</l>
+               <l>He lead a pleaſant and contented life,</l>
+               <l>Enjoy'd the world, and had a handſom Wife,</l>
+               <l>Who was ſo good and vertuous too withall,</l>
+               <l>That they the chaſt <hi>Lucretia</hi> did her call.</l>
+            </lg>
+            <lg>
+               <l>No man was happier in his Choice than he,</l>
+               <l>Or any woman better pleas'd than ſhe;</l>
+               <l>They liv'd and lov'd moſt dearly, at that rate,</l>
+               <l>As all did envy, or elſe wiſh their fate:</l>
+               <l>The Gods did bleſs them, and their Joys promove,</l>
+               <l>To ſhew what ſweet delights there dwelt in Love.</l>
+            </lg>
+            <pb n="3" facs="tcp:33137:6"/>
+            <lg>
+               <l>Who e're but view'd and ſaw their Loves combine,</l>
+               <l>Plainly beheld th' Almighties great Deſign</l>
+               <l>When firſt he <hi>Adam</hi> made and gave him <hi>Eve,</hi>
+               </l>
+               <l>As one ſhould both his ſoul and ſenſe relieve,</l>
+               <l>And he be to her both a Guard and Guide,</l>
+               <l>And greater friend than all the world beſide.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Lucretia</hi> now was Young and in her Prime</l>
+               <l>The Beautie and the wonder of her time;</l>
+               <l>Thick Aurean pleaſant hair bedeck'd her head,</l>
+               <l>None was more fair, or lovelier white and red;</l>
+               <l>A round of Glory like the radiant Sun</l>
+               <l>Behem'd her ſtill, as a new Morn begun.</l>
+            </lg>
+            <lg>
+               <l>A kind of pleaſant Clouds enclaſp'd her myen</l>
+               <l>Tranſparent, and beyond what e're was ſeen,</l>
+               <l>Her ſprightly Ayre ſo wav'd about her face,</l>
+               <l>As if it might be caught in every place;</l>
+               <l>Her ſeatures were tranſcendent, ſuch her charms,</l>
+               <l>None veiw'd her ſhape but wiſh'd her in his arms.</l>
+            </lg>
+            <lg>
+               <l>The Great men had her all in Admiration,</l>
+               <l>Yet ne're came near her but by Contemplation;</l>
+               <l>For ſhe ſo careful of her honour was,</l>
+               <l>Leſt by her means a ſtain ſhould come to paſs;</l>
+               <l>That ſhe did ſurely all the waies prevent</l>
+               <l>Might be her crime or husbands diſcontent.</l>
+            </lg>
+            <pb n="4" facs="tcp:33137:7"/>
+            <lg>
+               <l>But the fierce <hi>Tarquin</hi> who was Prince of <hi>Rome</hi>
+               </l>
+               <l>Came to her when her Husband was from home,</l>
+               <l>Pretending buſineſs from her noble Lord,</l>
+               <l>Or elſe with him ſhe had not ſpoke a word,</l>
+               <l>For ſhe imploy'd was in her houſe and ſphear,</l>
+               <l>Surveighing of her buſineſs ev'ry where.</l>
+            </lg>
+            <lg>
+               <l>None had more order in her Family,</l>
+               <l>All did obey the dictates of her eye;</l>
+               <l>
+                  <hi>Tarquin</hi> the wonder of her ways admir'd,</l>
+               <l>The more he ſaw, the more he ſtill deſir'd,</l>
+               <l>But in diſcourſe at laſt he told her plain,</l>
+               <l>His Errand was her kindeſt love to gain.</l>
+            </lg>
+            <lg>
+               <l>What ſhould ſo fair a Lady live ſo long</l>
+               <l>From Court. There ſtore of all Admirers throng;</l>
+               <l>In th' Countrie all is dull, while here are Plays,</l>
+               <l>And all divertiſements your ſoul can raiſe;</l>
+               <l>Gallants to court you, love you, and commend you,</l>
+               <l>Whilſt all the Glories in the world attend you.</l>
+            </lg>
+            <lg>
+               <l>Madam in ſhort I burn in love with you;</l>
+               <l>And nought before could e're my heart ſubdue.</l>
+               <l>What <hi>Rome</hi> can give or all the Earth beſide</l>
+               <l>Shall be your Lot if I am not deny'd;</l>
+               <l>Pardon my ſeeming error, ſo great Love</l>
+               <l>Changeth from vice, and doth a vertue prove.</l>
+            </lg>
+            <pb n="5" facs="tcp:33137:7"/>
+            <lg>
+               <l>O Sir, quoth she, and trembling as she ſtood,</l>
+               <l>Powring forth of her Chriſtal tears a flood;</l>
+               <l>I am already to another wed,</l>
+               <l>And will be truly loyal to his Beb;</l>
+               <l>Women are loſt and nothing ſignifie</l>
+               <l>If once they let their ſame and honour die.</l>
+            </lg>
+            <lg>
+               <l>We muſt not truſt our ſelves with men alone,</l>
+               <l>They who will truſt can truſted be by none;</l>
+               <l>For if we play, and love to courted be,</l>
+               <l>We ſhall reſign to Importunity;</l>
+               <l>There's none can promiſe what may happen to</l>
+               <l>One that will freely let all perſons woe.</l>
+            </lg>
+            <lg>
+               <l>Who love to be admired but in Jeſt,</l>
+               <l>Are ſure to loſe their name if not the reſt;</l>
+               <l>I ſcorn the dirty follies of this age,</l>
+               <l>Who after various mixtures luſt and rage,</l>
+               <l>Who marriage make but as a ſtalking horſe,</l>
+               <l>That they may ſure and ſlyly act things worſe.</l>
+            </lg>
+            <lg>
+               <l>As for the crowds in Cities do appear</l>
+               <l>I value not, I'm beſt contented here;</l>
+               <l>I ſeek not others honour, praiſe, or love,</l>
+               <l>My Glory's conſtant to my Lord to prove;</l>
+               <l>The fooliſh Gallants with their glittering Train</l>
+               <l>Appear to me ridiculous and vain.</l>
+            </lg>
+            <pb n="6" facs="tcp:33137:8"/>
+            <lg>
+               <l>I wonder what you did ſee in my face</l>
+               <l>Should make you think I'd yeild to this diſgrace;</l>
+               <l>A light deport ſhould ne're with women ſtay,</l>
+               <l>Their very looks should fright ill thoughts away:</l>
+               <l>He comes too near who comes to be deny'd,</l>
+               <l>Vertue ſhould keep us pure, at leaſt our Pride.</l>
+            </lg>
+            <lg>
+               <l>Dear Madam what d'yee mean to think that I</l>
+               <l>Would injure you, or make your honour fly;</l>
+               <l>I'le love you, and will do you all the good,</l>
+               <l>And for your ſake will ſpend my life and blood;</l>
+               <l>But now by all that's ſacred here I vow,</l>
+               <l>I would not hurt or elſe diſhonour you.</l>
+            </lg>
+            <lg>
+               <l>Grant me your love, and I will ever be</l>
+               <l>Your perfect Slave and conſtant Votarie:</l>
+               <l>What is true honour you do much miſtake,</l>
+               <l>Honour doth never us unhappy make;</l>
+               <l>Well manag'd Love's allow'd, for ſecreſie</l>
+               <l>Makes it true friendſhip, not dishoneſty.</l>
+            </lg>
+            <lg>
+               <l>Love is a kind and natural appetite,</l>
+               <l>None can reſiſt it, or with nature fight,</l>
+               <l>No more than thirſt, the Doctors preachments can</l>
+               <l>Alter its courſe no more than alter man;</l>
+               <l>Or yet can any love whom that they will,</l>
+               <l>But where it comes they muſt its law fulfill.</l>
+            </lg>
+            <pb n="7" facs="tcp:33137:8"/>
+            <lg>
+               <l>The Gods themſelves this Paſſion all appro<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>And veile their Dieties to own their Love;</l>
+               <l>This made the Thunderer lay by his Crown,</l>
+               <l>And oft to Beauties on the Earth come down;</l>
+               <l>Love breeds ſuch ſoftneſs by its warming gleams,</l>
+               <l>Melting the hardeſt Rocks to running ſtreams.</l>
+            </lg>
+            <lg>
+               <l>What law can your commanding Beauty bind,</l>
+               <l>Such glorious Creatures muſt not be confin'd;</l>
+               <l>The common Rules are for the common ſort,</l>
+               <l>You are above the world and all report;</l>
+               <l>Such lovely ſouls as you are made to be</l>
+               <l>Surely for more than ones felicity.</l>
+            </lg>
+            <lg>
+               <l>Marriage is but a humour politick,</l>
+               <l>
+                  <hi>Collatine</hi> got you by ſome cheat or trick;</l>
+               <l>I wonder in my ſoul he dar'd aſpire</l>
+               <l>To warm his Genius at your heavenly fire;</l>
+               <l>You are deſign'd for better things than theſe,</l>
+               <l>All Kings and Thrones you may command with eaſe.</l>
+            </lg>
+            <lg>
+               <l>Be gon you Meſſenger of Ribaldry,</l>
+               <l>How dare you thus to tempt my honeſty;</l>
+               <l>You make as if I were beyond good fame,</l>
+               <l>And honour that's ſo great were but a name;</l>
+               <l>But you shall know though honour were aſleep,</l>
+               <l>Reaſon and Piety my Soul shall keep.</l>
+            </lg>
+            <pb n="8" facs="tcp:33137:9"/>
+            <lg>
+               <l>Were it no crime, which yet it is the worſt,</l>
+               <l>A Whore of all things in the world's accurſt,</l>
+               <l>So mean to ſatisfie baſe mens diſeaſe,</l>
+               <l>And then to be thruſt off when e're they pleaſe,</l>
+               <l>And hiſt at by the world, and thrown about</l>
+               <l>As vileſt Caitiffs by the Revel Rout.</l>
+            </lg>
+            <lg>
+               <l>Speak not of naturalneſs, I know all vice</l>
+               <l>Have in you men a very natural riſe;</l>
+               <l>And if this Paſſion could not be declin'd,</l>
+               <l>All things in common would be ſoon reſign'd;</l>
+               <l>Theſe are but fallacies, Reaſon's our Guide,</l>
+               <l>Nature from Honeſty doth ne're divide.</l>
+            </lg>
+            <lg>
+               <l>What do you tell me that I am exempt</l>
+               <l>From Laws, That is a poor thing me to tempt,</l>
+               <l>I have a ſoul, and in that Honour find</l>
+               <l>Which Queens themſelves as well as others bind,</l>
+               <l>And Love muſt not be common, or too free,</l>
+               <l>But always circumſcrib'd with Loyaltie.</l>
+            </lg>
+            <lg>
+               <l>Greatneſs or Riches tempt me not at all,</l>
+               <l>There's few enjoy that which we happy call:</l>
+               <l>They'r fooliſh Girls that fancy gawdy Flies,</l>
+               <l>The ſoul and perſon only take the wiſe;</l>
+               <l>Where each are pleas'd with each beyond all chance,</l>
+               <l>They ſpurn at Crowns as but a poor advance.</l>
+            </lg>
+            <pb n="9" facs="tcp:33137:9"/>
+            <lg>
+               <l>What's Wealth, or Power, or Splendour more to me</l>
+               <l>Then I enjoy my ſelf: Felicity</l>
+               <l>Is much miſtaken by us Women when</l>
+               <l>We think we're happy in the greateſt men;</l>
+               <l>They pleaſe themſelves: When others pleaſe us do,</l>
+               <l>And they are only happy that live ſo.</l>
+            </lg>
+            <lg>
+               <l>Who can have more than I who have a friend,</l>
+               <l>That nought but death to Love can put an end;</l>
+               <l>What I defire I have, and I deſire</l>
+               <l>Nothing but what true friendſhip doth require:</l>
+               <l>Love is the Star that leads us, nothing eaſes</l>
+               <l>Each others mind but what each other pleaſes.</l>
+            </lg>
+            <lg>
+               <l>The Bounds are ſet which you and I muſt keep,</l>
+               <l>And plain to all whoſe ſouls are not aſleep:</l>
+               <l>Let ſingle Perſons pleaſe themſeves in friends,</l>
+               <l>Marry'd muſt not have ſuch unworthy ends;</l>
+               <l>They are not then their own, but each the others,</l>
+               <l>They muſt live chaſt and all ill Paſſion ſmother.</l>
+            </lg>
+            <lg>
+               <l>Why do you tell me of my Beauty ſo,</l>
+               <l>They only hanſome are that hanſome doe;</l>
+               <l>An ounce of Vertu's worth a load of Beauty,</l>
+               <l>Who hav't are bound to heaven in greater duty,</l>
+               <l>'Twas given to make us happy, not more lewd,</l>
+               <l>And turn ſuch bleſſings to Ingratitude.</l>
+            </lg>
+            <pb n="10" facs="tcp:33137:10"/>
+            <lg>
+               <l>You Atheiſt would you marriage too profane,</l>
+               <l>And make me break the ſacred oath I have tane:</l>
+               <l>This is worſt yet to palliate the crime,</l>
+               <l>To make fools of the Gods from firſt of time;</l>
+               <l>Know that in keeping firm this holy Pact,</l>
+               <l>The Gods the being of the world enact.</l>
+            </lg>
+            <lg>
+               <l>What e're deſign before had either part,</l>
+               <l>Hymen once paſt nothing muſt change the heart;</l>
+               <l>All wounds are ſalved and bound up in Love,</l>
+               <l>Nothing ſhould ever this great League remove;</l>
+               <l>For all excuſes then they come too late,</l>
+               <l>Both ſides muſt bow and buckle to their fate.</l>
+            </lg>
+            <lg>
+               <l>I like not that you ſhould ill words beſtow</l>
+               <l>On <hi>Collatine,</hi> or think him to lay low</l>
+               <l>In my eſteem, for that's the common cheat,</l>
+               <l>It is not outſide or the name of great</l>
+               <l>My ſoul can charm, the Genius I admire,</l>
+               <l>How e're none but my Lord I will defire.</l>
+            </lg>
+            <lg>
+               <l>Kings are but little things in my eſteem,</l>
+               <l>Nought doth to me ſo great as vertue ſeem;</l>
+               <l>Our Paſſions and our crimes ſubdue we muſt,</l>
+               <l>I'le not mix Poyſons, but will ſtill be juſt,</l>
+               <l>Or harbour ill, for <hi>Collatine</hi> is he</l>
+               <l>Hath all my heart, and ſhall my conſtancy.</l>
+            </lg>
+            <pb n="11" facs="tcp:33137:10"/>
+            <lg>
+               <l>Madam one word, once underſtand but Love</l>
+               <l>Theſe ſeeming Rocks will quickly from you move;</l>
+               <l>Love is a Pleaſure you ne're underſtood,</l>
+               <l>There is a ſprightly Ayre in fleſh and blood,</l>
+               <l>Which once well ken'd all other things are folly,</l>
+               <l>This makes the hearts and ſouls of thoſe ſo jolly.</l>
+            </lg>
+            <lg>
+               <l>Converſe with Nature that will quickly tell</l>
+               <l>How many Pleaſures in this Paſſion dwell;</l>
+               <l>Trees, Birds and Beaſts, and Fiſhes in the Seas</l>
+               <l>Till they have choſe their Loves are ne're at eaſe;</l>
+               <l>There is a Loving Fury feizeth all</l>
+               <l>In Sea, Air, Earth and Heaven, both great and ſmall.</l>
+            </lg>
+            <lg>
+               <l>The lively winged people of the Sky</l>
+               <l>Sing their amours with chanting melody;</l>
+               <l>The Stars of heaven at one another dart,</l>
+               <l>Which only is a kind and loving Art.</l>
+               <l>Why ſhould we fear at all then to be kind</l>
+               <l>When all things that have life are ſo inclin'd.</l>
+            </lg>
+            <lg>
+               <l>What's all the Glory men or times poſſeſs,</l>
+               <l>But whom they love to pleaſure and Careſs,</l>
+               <l>Riches, Garb, Splendor, tend to heighten Love,</l>
+               <l>And ſervants are as it doth turn and move;</l>
+               <l>Love is the great wheel, here moves Gods and men,</l>
+               <l>And when we come to heav'n we love agen.</l>
+            </lg>
+            <pb n="12" facs="tcp:33137:11"/>
+            <lg>
+               <l>Wherefore what is there ere can nobler be</l>
+               <l>Than this which is ſo good, ſo great, ſo free:</l>
+               <l>Kept up 'tis at ſo ſweet ſo kind a rate</l>
+               <l>It wings us clear above the frowns of Fate.</l>
+               <l>Then all things elſe as follyes I deſpiſe,</l>
+               <l>And wait the ſentence of your ſcornful eyes.</l>
+            </lg>
+            <lg>
+               <l>You make me firſt an Atheiſt, then inſtill</l>
+               <l>Sweet melting love, ſo have me at your will;</l>
+               <l>But be aſſur'd for all you are a Prince,</l>
+               <l>Yet all your ſlights and art will ne're convince;</l>
+               <l>
+                  <hi>Tarquin</hi> you miſs your aim, 'twill never do,</l>
+               <l>Yet love I underſtand as well as you.</l>
+            </lg>
+            <lg>
+               <l>Vertue and Love together I adore</l>
+               <l>Beyond the <hi>Indies</hi> or the richeſt Ore:</l>
+               <l>Religion, Duty, Love, then ſtrive to ſhew</l>
+               <l>Each its affection, each for to outdoe;</l>
+               <l>For there's the pleaſure when the Love is free</l>
+               <l>From guilt: But yours is nought but Treachery.</l>
+            </lg>
+            <lg>
+               <l>Where harbours Vertue, Love and Innocence,</l>
+               <l>Pleaſures as high as heaven there comence.</l>
+               <l>Theſe are thoſe pious fervours well begun</l>
+               <l>From which ſtreams of content apace do run.</l>
+               <l>Nothings ſo dear as harmony of Hearts,</l>
+               <l>There's what's in Kingdoms, Empires, Crowns, or Arts.</l>
+            </lg>
+            <pb n="13" facs="tcp:33137:11"/>
+            <lg>
+               <l>Whoſe humourous fancy's lead them to be great,</l>
+               <l>Some forreign matters ſtill with dangers threat,</l>
+               <l>And trouble too or Treaſon doth attend,</l>
+               <l>But all things reſt and ſweeten in a friend:</l>
+               <l>Friendſhip is that all things and creatures woe</l>
+               <l>Makes Life more pleaſant than all elſe can doe.</l>
+            </lg>
+            <lg>
+               <l>Yet theſe true ſolid joys ther's none can tell</l>
+               <l>But thoſe that do in Love's fair Kingdom dwell;</l>
+               <l>And this breeds the true pleaſure when we know,</l>
+               <l>'Tis honeſt, lawfull, and we may do ſo,</l>
+               <l>Then without fear we may reſign to Love:</l>
+               <l>What was a crime a duty now doth prove.</l>
+            </lg>
+            <lg>
+               <l>We may live merry if our Bounds we keep,</l>
+               <l>Wine we may drink, but muſt not go too deep.</l>
+               <l>Then <hi>Tarquin</hi> underſtand and be at reſt,</l>
+               <l>I've all things in the world that pleaſe me beſt;</l>
+               <l>I'm pleas'd in my condition and nmy ſtate,</l>
+               <l>And I'le as conſtant be as holy Fate.</l>
+            </lg>
+            <lg>
+               <l>But did I him not like, nought elſe I'd love,</l>
+               <l>Our fancies ſhould not wander, rowl, or move;</l>
+               <l>We muſt not ſtraggle or raiſe needleſs duſt,</l>
+               <l>For who does ſo loves to create a Luſt;</l>
+               <l>I love not to be call'd a light-heel'd Dame,</l>
+               <l>And thought to be regardleſs of my fame.</l>
+            </lg>
+            <pb n="16" facs="tcp:33137:12"/>
+            <lg>
+               <l>What a poor ſpirit 'tis to be undreſt,</l>
+               <l>And at the will of man to play the Beaſt,</l>
+               <l>And ever after muſt remain their ſlave,</l>
+               <l>If any comfort in their lives will have,</l>
+               <l>And for a moments folly muſt endure</l>
+               <l>A whole Life's ſhame, and always be impure.</l>
+            </lg>
+            <lg>
+               <l>Theſe are the words which she to <hi>Tarquin</hi> ſpoke,</l>
+               <l>Which did him not appeaſe but more provoke;</l>
+               <l>For the more chaſt and vertuous was she,</l>
+               <l>The greater mind to rifle her had he:</l>
+               <l>But when she ſaw she could not him ſubdue,</l>
+               <l>She turn'd about and to her chamber flew.</l>
+            </lg>
+            <lg>
+               <l>But as the ſwift foot Greyhound breaks the Air,</l>
+               <l>And runs with ſpeed when that he ſees the Hare;</l>
+               <l>So follow'd <hi>Tarquin,</hi> and broke in before</l>
+               <l>That she had time to ſhut the Chamber door;</l>
+               <l>He quickly shew'd how ill he had been bred,</l>
+               <l>For preſently he laid her on the Bed.</l>
+            </lg>
+            <lg>
+               <l>And there contemplated the lovely make</l>
+               <l>Of all her dainty Limbs, His eyes did take</l>
+               <l>The greateſt pleaſure that the Earth could give</l>
+               <l>To any mortal in this world and live:</l>
+               <l>She had ſuch Beauty dwelt in ev'ry part,</l>
+               <l>Beyond diſcription of the Pen or Art.</l>
+            </lg>
+            <pb n="15" facs="tcp:33137:12"/>
+            <lg>
+               <l>He was in heat before, but now in flame,</l>
+               <l>Longing for to enjoy this curious frame;</l>
+               <l>His heart and blood and ſoul was now confounded,</l>
+               <l>Torrents of Love on all ſides him ſurrounded</l>
+               <l>Oh Gods quoth he why do you mortals tempt,</l>
+               <l>Yet by your Laws from pleaſures them exempt?</l>
+            </lg>
+            <lg>
+               <l>He was reſolved now to ranſack all</l>
+               <l>That men do chaſtity or beauty call,</l>
+               <l>And bleſs himſelf upon this ſweet compoſure,</l>
+               <l>Thinking he ne're ſhould have the like encloſure;</l>
+               <l>Wherefore he ſpeeded to make uſe of time</l>
+               <l>This Lady being in her chiefeſt Prime.</l>
+            </lg>
+            <lg>
+               <l>And without fear unto thoſe parts made way,</l>
+               <l>Which as affecting make her fly or ſtay:</l>
+               <l>But then ſhe vow'd that if he left her breath,</l>
+               <l>Before ſhe'd yeild ſhe'd ſurely be his death;</l>
+               <l>And there Conjur'd him not to touch her more,</l>
+               <l>Yet like a Supliant did him there implore.</l>
+            </lg>
+            <lg>
+               <l>With that he fell down on his bended knees,</l>
+               <l>Begging to grant him thoſe felicity's;</l>
+               <l>Told her his Paſsion and his mighty flame,</l>
+               <l>An hundred Alters ſhould burn to her name;</l>
+               <l>And all the honour in the world ſhould be</l>
+               <l>A Sacrifice unto her memory.</l>
+            </lg>
+            <pb n="16" facs="tcp:33137:13"/>
+            <lg>
+               <l>But ſhe a thouſand thouſand tears let fall,</l>
+               <l>And ſaid this day ſhould be her funeral</l>
+               <l>Before this wrong that ſhe would undetgoe,</l>
+               <l>And humbly pray'd this thing he would not doe:</l>
+               <l>Pity ſaid she uſe not this cruelty,</l>
+               <l>This is the worſt of inhumanity.</l>
+            </lg>
+            <lg>
+               <l>But nothing would his humour now withſtand,</l>
+               <l>He laid her body at his ſole command,</l>
+               <l>And rufled all her Garments very rudely,</l>
+               <l>That he might view her lovelineſs more lewdly;</l>
+               <l>Nothing would keep him back, for he was bent</l>
+               <l>To raviſh her if ſhe would not conſent.</l>
+            </lg>
+            <lg>
+               <l>And then he told her plain that ſince ſhe could</l>
+               <l>Not grant him his deſires he force her would,</l>
+               <l>And after kill her and her Negro too,</l>
+               <l>And lay him by her ſide and all ſhould know</l>
+               <l>That he enjoy'd you, and that I was there,</l>
+               <l>And kill'd you both as in the act you were.</l>
+            </lg>
+            <lg>
+               <l>This dreadful Story in her mind ſhe mus'd,</l>
+               <l>She's loth to yeild, yet loth to be abus'd;</l>
+               <l>But what with fear at laſt his wrath and thunder,</l>
+               <l>He forc'd her pureſt chaſtity aſunder;</l>
+               <l>And between Will ye Nill ye did enjoy</l>
+               <l>His hot deſires, and after went his way.</l>
+            </lg>
+            <pb n="17" facs="tcp:33137:13"/>
+            <lg>
+               <l>But she did rave like one that was ſtark mad,</l>
+               <l>Nothing could eaſe her heart it was ſo ſad:</l>
+               <l>O Fool ſaid she was I to ſuffer this,</l>
+               <l>Better that I had dy'd than done amiſs;</l>
+               <l>For then I'd left the world pure innocent,</l>
+               <l>Now I muſt kill my ſelf for diſcontent.</l>
+            </lg>
+            <lg>
+               <l>I loſt my honour honour to enjoy,</l>
+               <l>My body now polluted I'le deſtroy;</l>
+               <l>Yet why ſhould I? conſent I did not give,</l>
+               <l>Which makes the ſin, however I'le not live:</l>
+               <l>Unhappy womens beauty, and their fears</l>
+               <l>That draw them in ſuch plunges and ſuch ſnares.</l>
+            </lg>
+            <lg>
+               <l>I'le never live a minute longer ſure,</l>
+               <l>Since nothing now my honour can ſecure;</l>
+               <l>I hate to ſee the light or elſe mankind,</l>
+               <l>No comfort in my life at all I find:</l>
+               <l>My guilt ſo ſtartles me, the world will ſay</l>
+               <l>
+                  <hi>Lucretia</hi> like the reſt loves private play.</l>
+            </lg>
+            <lg>
+               <l>O fatal day, oh horrid accident,</l>
+               <l>That robs me thus of honour and content:</l>
+               <l>Tell me ye Higher-powers what courſe to take</l>
+               <l>That I may yet my life but happy make:</l>
+               <l>What fond word did I ſay, o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there's no Power</l>
+               <l>Can ever, ever what I loſt reſtore.</l>
+            </lg>
+            <pb n="18" facs="tcp:33137:14"/>
+            <lg>
+               <l>Then take me death, my Shrowd my Tomb prepare,</l>
+               <l>My burden'd ſoul ſhall ſtraight poſſeſs the Air;</l>
+               <l>I'le ſacrifice my ſelf for to appeaſe</l>
+               <l>The angry Gods, and give my ſpirits eaſe:</l>
+               <l>With that she ſet a dagger to her breaſt,</l>
+               <l>And ſent her ſoul unto eternal reſt.</l>
+            </lg>
+            <lg>
+               <l>Her Women gave ſuch shreeks to ſee her fall</l>
+               <l>Quickly reſounded in the high-roof'd Hall,</l>
+               <l>Piercing the ears of all within the place,</l>
+               <l>Which made then flock and thunder up apace;</l>
+               <l>Where, oh Misfortune, they their Lady found</l>
+               <l>Near to deaths borders by her own hands wound.</l>
+            </lg>
+            <lg>
+               <l>Juſt as this Hurry was in agitation</l>
+               <l>Comes <hi>Collatine</hi> with many men of fashion,</l>
+               <l>Who dream'd ſome ill had hapned to his Wife,</l>
+               <l>Which made him poſt away as for his life;</l>
+               <l>For no man ever lov'd a woman better,</l>
+               <l>And she was never unto him a debter.</l>
+            </lg>
+            <lg>
+               <l>He came up to the houſe, and in at door,</l>
+               <l>But none did fee, yet heard them cry and rear;</l>
+               <l>At laſt one bolder than the reſt came down</l>
+               <l>That told the news, at which his breath was gone;</l>
+               <l>But he recovering himſelf at laſt,</l>
+               <l>Up ſtairs he went to ſee what there had paſt,</l>
+            </lg>
+            <pb n="19" facs="tcp:33137:14"/>
+            <lg>
+               <l>And found the ſtory true to his great grief,</l>
+               <l>And could not ſee a way to get relief:</l>
+               <l>He wrung his hands, invok'd, made horrid wiſhes,</l>
+               <l>Then gave her fainting limbs ten thouſand kiſſes;</l>
+               <l>He call'd <hi>Lucretia</hi> loud juſt by her ſide,</l>
+               <l>She anſwer'd, I am thine alone, then dy'd.</l>
+            </lg>
+            <lg>
+               <l>And ſo now paſt all hope ſhe did depart,</l>
+               <l>Which laſt adieu was like to break his heart;</l>
+               <l>No Doctors means or art was left unſought,</l>
+               <l>But all experiments did come to nought;</l>
+               <l>Her countenance chang'd at laſt and ſhe grew cold</l>
+               <l>As he her body in his arms did hold.</l>
+            </lg>
+            <lg>
+               <l>Friends then perſwaded him to come away,</l>
+               <l>And would not let him in her chamber ſtay.</l>
+               <l>Poor <hi>Collatine</hi> did rave and tore his hair,</l>
+               <l>And with his diſmal mones did pierce the Air:</l>
+               <l>At laſt ſome little comfort eas'd his breath,</l>
+               <l>Vowing revenge for his <hi>Lucretia's</hi> death.</l>
+            </lg>
+            <lg>
+               <l>Quoth he ſhe was conſtant to me all her life,</l>
+               <l>None was more loving or a better Wife;</l>
+               <l>And at the laſt from me ſhe would not ſtray,</l>
+               <l>Though <hi>Tarquin</hi> fain would had her quite away;</l>
+               <l>But ſhe vow'd to him she would die before</l>
+               <l>That ere she'd goe from out her husbands door.</l>
+            </lg>
+            <lg>
+               <pb n="20" facs="tcp:33137:15"/>
+               <l>Who hearts deceitful have, vain, light, or lewd</l>
+               <l>I'de let them drive amongſt the multitude,</l>
+               <l>I would not be their Jayler, for this know</l>
+               <l>Where freedom wo'nt oblige nothing will do:</l>
+               <l>Whoſe Miſtreſs cleaves to him he's bound t'adore,</l>
+               <l>But he is mad ſtrives for anothers Whore;</l>
+            </lg>
+            <lg>
+               <l>Like unto <hi>Marcus Caſsiado<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> the great,</l>
+               <l>Who had a Wife both light was and a cheat,</l>
+               <l>Who rob'd her Husband, and concealed lay</l>
+               <l>While she with <hi>Damaſus</hi> had private play;</l>
+               <l>Yet <hi>Marcus</hi> fought his Rival, but was kill'd,</l>
+               <l>Whoſe Wife had then her end when's blood was ſpill'd.</l>
+            </lg>
+            <lg>
+               <l>So pious <hi>Marcus</hi> weltred on the ground</l>
+               <l>Whilſt his baſe Wife did dreſs the others wound:</l>
+               <l>O cruel wretch was't not enough to do</l>
+               <l>To leave him, but thus perſecute him too:</l>
+               <l>What horrid treacheries was founded here,</l>
+               <l>Hell gave her counſel, and her courſe did ſteer.</l>
+            </lg>
+            <lg>
+               <l>What ſtony heart can now from tears refrain,</l>
+               <l>To think that mortals ſhould ſuch crimes retain:</l>
+               <l>The barbarous Nations round about us here,</l>
+               <l>Never ſo ſavage or ſo rude appear;</l>
+               <l>Honour, Love, Laws, Religion, Gratiude</l>
+               <l>Are loſt and buried in a heart ſo lewd.</l>
+            </lg>
+            <pb n="21" facs="tcp:33137:15"/>
+            <lg>
+               <l>But dear <hi>Lucretia</hi> thou didſt love me ſo,</l>
+               <l>Greater affection none could ever ſhew;</l>
+               <l>Hadſt thou inconſtant been or falſe to me,</l>
+               <l>I'd never be concern'd or fight for thee,</l>
+               <l>I'd let thee pine and ſink in thy own ſhame;</l>
+               <l>But now I'm bound to vindicate thy name.</l>
+            </lg>
+            <lg>
+               <l>O all ye Gods in the celeſtial ſtate</l>
+               <l>If Juſtice is not with you out of date,</l>
+               <l>As 'tis on Earth your powers I do invoke</l>
+               <l>To help me at this plunge, your holy book</l>
+               <l>I yeild to, and your hard'ſt decrees obey,</l>
+               <l>Your Alters ſtill ſhall flame, I'le all dues pay.</l>
+            </lg>
+            <lg>
+               <l>If this be ſuffer'd who can live at reſt,</l>
+               <l>None will be found to keep an honeſt breaſt,</l>
+               <l>Marriage eſteem'd was always, for if that</l>
+               <l>Be once profan'd farewel the ſacred knot</l>
+               <l>Of all ſociety, then farewel Laws,</l>
+               <l>Ruine attends upon ſo bad a cauſe.</l>
+            </lg>
+            <lg>
+               <l>Nature it ſelf in Love commands Propriety,</l>
+               <l>Elſe no good off-ſprings would be or ſociety,</l>
+               <l>No care of Child or how to manage Land,</l>
+               <l>But every one would graſp what comes to hand;</l>
+               <l>All Children would be Baſtards, Men Deceivers,</l>
+               <l>No Government, Religion, or Believers.</l>
+            </lg>
+            <pb n="22" facs="tcp:33137:16"/>
+            <lg>
+               <l>All hold propriety a thing moſt dear,</l>
+               <l>But nothing ever like a Wife ſo near;</l>
+               <l>With that he pauſ'd: but could not grief aſſwage,</l>
+               <l>But plots the founding of a tragick age;</l>
+               <l>Strange Sceans are laid, confuſions quickly flow,</l>
+               <l>
+                  <hi>Brutus</hi> the Rebel cloſes with him too,</l>
+            </lg>
+            <lg>
+               <l>And helpt the broyl: quoth he, we're void of fear,</l>
+               <l>All this whole Province for you will appear;</l>
+               <l>
+                  <hi>Collatia</hi> is already up in Arms,</l>
+               <l>And vow to keep you from all future harms.</l>
+               <l>I'le lead the forces and maintain the day,</l>
+               <l>Command me as your ſlave I will obey.</l>
+            </lg>
+            <lg>
+               <l>Now nought but quarrels gave their hearts contentment</l>
+               <l>Theſe humours in their breaſts had ſuch reſentment.</l>
+               <l>Armes at all points, nothing will them debar,</l>
+               <l>They'd Peace ſo long, that they are mad for War;</l>
+               <l>Both ſides make ready, now the battle comes,</l>
+               <l>Which gives to many unexpected Tombs.</l>
+            </lg>
+            <lg>
+               <l>How thick the Hills were ſpred with lookers on,</l>
+               <l>While ſome for victory to the Templerun;</l>
+               <l>What ſhreiks are heard ſometimes, then Trumpet ſounds</l>
+               <l>Whet up their courage and their foesconfounds:</l>
+               <l>Here bodies mangled are, what direful ſlaughters,</l>
+               <l>What cries of mournful Widows, Wives and Daughters.</l>
+            </lg>
+            <pb n="23" facs="tcp:33137:16"/>
+            <lg>
+               <l>To tell of all the furies, heats, enragements,</l>
+               <l>Raunges of Battle, and the fierce Engagements:</l>
+               <l>Who lead the Wings of Horſe up, who the Foot,</l>
+               <l>Which ſide gave ground, and which the beſt ſtood too't</l>
+               <l>Requires a Volume: and beſides black night</l>
+               <l>Now ſummons both the Armies to retreat.</l>
+            </lg>
+            <lg>
+               <l>So here I'le leave and do as the Romances,</l>
+               <l>Lead up your thoughts with many pretty fancies.</l>
+               <l>Then leave you in a Cloud, and never cloſe,</l>
+               <l>For then your mind would have too much repoſe;</l>
+               <l>But then 'tis beſt: when thoughts ſtill farther bend,</l>
+               <l>For there the pleaſure never hath an End.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
